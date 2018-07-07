@@ -1,0 +1,4 @@
+production: 
+  clients: 
+    default: 
+      uri: "mongodb://carlos:carlos1@ds018268.mlab.com:18268/proyecto_huerto"
